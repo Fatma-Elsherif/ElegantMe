@@ -1,0 +1,53 @@
+# =============== #
+# Unity generated #
+# =============== #
+
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# Asset meta data should be tracked
+# But don't track migrated old ones
+[Ll]ibrary/*/ExpandedTree*
+
+# Visual Studio cache
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Unity backups
+*.unity~ 
+*.prefab~
+
+# Crash files
+sysinfo.txt
+
+# Ignore Unity cloud builds
+UnityCloud/
+
+# =============== #
+# OS generated    #
+# =============== #
+.DS_Store
+Thumbs.db
+
+# =============== #
+# Build artifacts #
+# =============== #
+*.apk
+*.aab
+*.app
+*.exe
+*.dll
